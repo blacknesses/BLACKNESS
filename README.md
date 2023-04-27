@@ -14,12 +14,12 @@
 <div style=":"><br>
   <img align="center" alt="Black" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="black" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="" alt="" height="" width="" src="">
-  <img align="" alt="" height="" width="" src="">
-  <img align="" alt="" height="" width="" src="">
-  <img align="" alt="" height="" width="" src="">
-  <img align="" alt="" height="" width="" src="">
-  <img align="" alt="" height="" width="" src="">
+  <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg">
+  <img align="center" alt="black" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
+  <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+  <img align="center" alt="black" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
 </div>
   
 ##
