@@ -7,7 +7,8 @@
 <div>
   <a href="https://github.com/blacknesses">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blackness&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackness&layout=compact&theme=tokyonight&hide=python,shell,bash,html,javascript">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackness&layout=compact&theme=tokyonight&hide=python,shell"/>
+ </a>
 </div>
   
 
