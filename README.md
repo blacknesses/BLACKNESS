@@ -42,3 +42,11 @@ target="_blank"></a>
    ![giphy](https://user-images.githubusercontent.com/96961178/234770652-1be88cd1-9481-4139-aa88-d1c5ab741251.gif)
   
 </div>
+  
+## Visitor Counter
+<div align="center">
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{lucasfturos}/count.svg)
+</div>
