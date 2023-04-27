@@ -20,6 +20,7 @@
   <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="black" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img align="center" alt="black" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
+  
 </div>
   
 ##
