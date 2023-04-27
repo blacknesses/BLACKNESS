@@ -5,7 +5,7 @@
 - 👻 Look at the bird !!
 
 <div>
-  <a href="https://github.com/anoum404">
+  <a href="https://github.com/blacknesses">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blackness&show_icons=true&theme=tokyonight">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackness&layout=compact&theme=tokyonight">
 </div>
@@ -34,6 +34,6 @@ target="_blank"></a>
   <a href="https://discord.gg/xBkaKATxT6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
 target="_blank"></a>       
   
-   ![Snake animation](https://github.com/anoum404/anoum404/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/blacknesses/blacknesses/blob/output/github-contribution-grid-snake.svg)
   
 </div>
