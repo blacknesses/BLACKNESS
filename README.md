@@ -28,13 +28,7 @@
   <a href="https://www.instagram.com/blackness.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-junior-2b0040190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-target="_blank"></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
-target="_blank"></a>
-  <a href="https://brave.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"
-target="_blank"></a>
-  <a href="https://openwrt.org/" target="_blank"><img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white"
-target="_blank"></a>       
+target="_blank"></a> 
   <a href="https://www.udemy.com/user/fabio-henrique-166/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"
 target="_blank"></a>       
   <a href="https://discord.gg/xBkaKATxT6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
