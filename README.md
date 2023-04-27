@@ -1,7 +1,7 @@
 ## Hello! I'm blackness !!!
 
 - 👨‍💻 Pentester
-- 🖤 Entusiasta em offensive security
+- 🖤 offensive security
 - 👻 Look at the bird !!
 
 <div>
