@@ -37,6 +37,6 @@ target="_blank"></a>
 target="_blank"></a>       
   <a href="https://www.udemy.com/user/fabio-henrique-166/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"
 target="_blank"></a>       
-  <a href="https://music.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"
+  <a href="https://discord.gg/xBkaKATxT6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
 target="_blank"></a>       
 </div>
