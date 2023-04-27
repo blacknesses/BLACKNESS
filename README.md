@@ -38,3 +38,6 @@ target="_blank"></a>
    ![Snake animation](https://github.com/blacknesses/blacknesses/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  ![giphy](https://user-images.githubusercontent.com/96961178/234770652-1be88cd1-9481-4139-aa88-d1c5ab741251.gif)
+
