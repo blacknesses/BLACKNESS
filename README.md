@@ -1,4 +1,4 @@
-## Hello! I'm blackness !!!
+## <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=C9D1D9&multiline=true&width=460&lines=Hi%2C+I'm+blackness.+Welcome+to+my+profile." alt="Hi, I'm blackness. Welcome to my profile." />
 
 - 👨‍💻 Pentester
 - 🖤 offensive security
@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/blacknesses">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blackness&show_icons=true&theme=tokyonight">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackness&layout=compact&theme=tokyonight">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackness&layout=compact&theme=tokyonight&hide=python,shell,bash,html,javascript">
 </div>
   
 
