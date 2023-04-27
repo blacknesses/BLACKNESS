@@ -13,7 +13,7 @@
 ## 
 
 <div style=":"><br>
-  <img align="" alt="" height="" width="" src="">
+  <img align="center" alt="Black" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="" alt="" height="" width="" src="">
   <img align="" alt="" height="" width="" src="">
   <img align="" alt="" height="" width="" src="">
@@ -22,4 +22,3 @@
   <img align="" alt="" height="" width="" src="">
   <img align="" alt="" height="" width="" src="">
 </div>
-<i class="devicon-redhat-plain colored"></i>
