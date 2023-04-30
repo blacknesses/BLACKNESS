@@ -7,7 +7,7 @@
 <div>
   
   ![](https://github-readme-stats.vercel.app/api?username=blacknesses&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacknesses&layout=compact&langs_count=8&theme=tokyonight&hide="/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacknesses&layout=compact&langs_count=8&theme=tokyonight&hide="/>
  </a>
 </div>
   
