@@ -5,9 +5,8 @@
 - 👻 Look at the bird !!
 
 <div>
-  <a href="https://github.com/blacknesses">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
+  
+  ![](https://github-readme-stats.vercel.app/api?username=blacknesses&hide=contribs,prs)
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacknesses&layout=compact&langs_count=8&theme=tokyonight&hide="/>
  </a>
 </div>
