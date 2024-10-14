@@ -49,3 +49,7 @@ target="_blank"></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/{blacknesses}/count.svg)
 </div>
+
+<p align="center">
+  <img src="https://i.imgur.com/CyberpunkCity.gif" width="600" alt="Cyberpunk City">
+</p>
