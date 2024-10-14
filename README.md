@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <p align="left">
 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/bAXchAu6z4)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fabio-junior-2b0040190/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/fábio-júnior-2b0040190)
 _________________________________________________________________________________
 </div>
 
